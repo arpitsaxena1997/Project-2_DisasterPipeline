@@ -18,7 +18,7 @@ https://github.com/arpitsaxena1997/Project-2_DisasterPipeline/assets/17746091/26
 - SQLalchemy
 - Pickle
 - Flask
-- Plotly
+- Plotly  
 
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
